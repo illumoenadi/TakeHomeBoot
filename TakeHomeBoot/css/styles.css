@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Inconsolata|Montserrat+Subrayada&display=swap');
+
+body{
+    font-family: 'Inconsolata', monospace;
+
+}
+
+
+.heading_font{
+    font-family: 'Montserrat Subrayada', sans-serif;
+
+}
+
+.fas{
+    color: darkgrey !important;
+    /* text-align: center; */
+    /* display: block; */
+}
+
+.jumbotron{
+    background: url("../imgs/citylookup.jpg") no-repeat center center;
+    background-size: cover;
+    padding: 0;
+}
+.tint{
+    /* background: #ffffff88; */
+    padding: 50px;
+    width: 100%;
+}

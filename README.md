@@ -1,2 +1,0 @@
-# MobFrienTakeHome
-Takehome Mobile Friendly 
